@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009176018271",
+    "project_id": "flowerdrix-scm",
+    "storage_bucket": "flowerdrix-scm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009176018271:android:a41b875db71cb9922c0aea",
+        "android_client_info": {
+          "package_name": "com.sandrix.flowerdrix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGNv7wJe8Nh9Y3yA5HQV7vdZDekMni8eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
